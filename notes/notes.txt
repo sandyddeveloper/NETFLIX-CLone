@@ -1,0 +1,26 @@
+I'm going to use REACT.JS,MANGODB,TILEWINDCSS,FIREBASE,
+
+LABIARIES 
+**Material UI("npm install @material-ui/icons @material-ui/core")
+
+**
+
+
+
+
+I juz installing the react 
+("Npx create-react-app .)
+
+And I have made the structure for src folder like 
+*Components 
+*Pages
+
+Then in index.jsx page I have declared the react vy importing the react and ReactDom
+
+
+In index.jsx ..the main line of code is 
+ReactDom.render(<App/>, document.getElementByid('root'));
+
+
+In public folder >index.html 
+I have choose my font style and family by importing the links using the  //font.google.com/..
